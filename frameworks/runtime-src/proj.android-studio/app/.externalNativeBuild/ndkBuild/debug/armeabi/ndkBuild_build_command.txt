@@ -1,0 +1,22 @@
+Executable : /home/bijosh/cocos_studio/android/android-sdk/ndk-bundle/ndk-build
+arguments : 
+NDK_PROJECT_PATH=null
+APP_BUILD_SCRIPT=/home/bijosh/work/cocos2d-x_projects/cocos_poc/frameworks/runtime-src/proj.android-studio/app/jni/Android.mk
+NDK_APPLICATION_MK=/home/bijosh/work/cocos2d-x_projects/cocos_poc/frameworks/runtime-src/proj.android-studio/app/jni/Application.mk
+APP_ABI=armeabi
+NDK_ALL_ABIS=armeabi
+NDK_DEBUG=1
+APP_PLATFORM=android-14
+NDK_OUT=/home/bijosh/work/cocos2d-x_projects/cocos_poc/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/debug/obj
+NDK_LIBS_OUT=/home/bijosh/work/cocos2d-x_projects/cocos_poc/frameworks/runtime-src/proj.android-studio/app/build/intermediates/ndkBuild/debug/lib
+NDK_TOOLCHAIN_VERSION=4.9
+APP_PLATFORM=android-10
+NDK_MODULE_PATH=/home/bijosh/work/cocos2d-x_projects/cocos_poc/frameworks/cocos2d-x:/home/bijosh/work/cocos2d-x_projects/cocos_poc/frameworks/cocos2d-x/cocos:/home/bijosh/work/cocos2d-x_projects/cocos_poc/frameworks/cocos2d-x/external
+-j4
+NDK_DEBUG=1
+APP_SHORT_COMMANDS=false
+LOCAL_SHORT_COMMANDS=false
+-B
+-n
+jvmArgs : 
+
