@@ -1,4 +1,4 @@
-# moon_warriors
+# Moon Warriors
 clone of moon warriors sample by cocos-2d, ported for latest android
 
 For running it on particular platform run:
